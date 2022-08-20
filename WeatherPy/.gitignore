@@ -1,14 +1,13 @@
-'''python
-# Adding config.py file.
-api_keys.py
-API_practice.ipynb
-random_numbers.ipynb
+.DS_Store = MacOS
+desktop.ini = Windows
 config.py
+api_keys.py
 api_keys-old.ipynb
 api_keys-old.py
-'''
 
-ZOOM CHAT MESSAGES - Python API.md
+
+API_practice.ipynb
+random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
