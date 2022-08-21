@@ -2,8 +2,17 @@
 
 ## SOLUTIONS INDEX
 
-### Complete Solutions for WeatherPy are in WeatherPy-main.ipynb
+### Complete Solutions for WeatherPy are from WeatherPy-working.ipynb
+### New outputs can be generated for WeatherPy-main.ipynb
 * Working file is WeatherPy-working.ipynb
+  * All outputs derived from this Jupyter Notebook.
+* WeatherPy-main.ipynb can be run with a new cities list being generated and corresponding solutions.
+  * WeatherPy-working.ipynb will generate a new cities list, but I also saved the cities list within the notebook so the outputs could be generated again.
+  * I saved all previous outputs as a backup in the WeatherPy/TEMPORARY folder.
+  * I reran WeatherPy-working.ipynb again to confirm it works, and the new datetime stamp shown in the DataFrame confirms new outputs using the saved cities list.
+  * I directed all outputs for WeatherPy-main.ipynb to a different output folder called WeatherPy/fresh_output_data.
+  * All the output file names are the same, just different folder, so the solutions outputs for this homework don't get overwritten.
+  * I ran WeatherPy-main to confirm it works, and al outputs are in the WeatherPy/fresh_output_data folder.
 
 ### Analysis and Notes are in python-api challenge - SOLUTIONS README.md
 * This is important because the randomly selected cities list used had NO cities where humidity was > 100%.

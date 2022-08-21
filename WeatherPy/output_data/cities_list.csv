@@ -1,617 +1,617 @@
-,city
-0,rikitea
-1,meulaboh
-2,hilo
-3,lasa
-4,souillac
-5,necochea
-6,mar del plata
-7,vaini
-8,hermanus
-9,lavrentiya
-10,taoudenni
-11,sinnamary
-12,nanortalik
-13,ushuaia
-14,pierre
-15,faanui
-16,sentyabrskiy
-17,tabuk
-18,punta arenas
-19,port lincoln
-20,jiddah
-21,buala
-22,sturgis
-23,eyl
-24,willowmore
-25,hobart
-26,hithadhoo
-27,praia
-28,saint-philippe
-29,tuktoyaktuk
-30,marcona
-31,bluff
-32,bandarbeyla
-33,novyy urengoy
-34,bonham
-35,sitka
-36,deputatskiy
-37,kapaa
-38,hegra
-39,chuy
-40,geraldton
-41,kaitangata
-42,rio grande
-43,aklavik
-44,beloha
-45,tuatapere
-46,puerto ayora
-47,rungata
-48,grand river south east
-49,ugoofaaru
-50,shu
-51,kysyl-syr
-52,poum
-53,cape town
-54,mnogovershinnyy
-55,vostok
-56,kampot
-57,nikolskoye
-58,mergui
-59,neiafu
-60,new norfolk
-61,avarua
-62,flinders
-63,longlac
-64,atuona
-65,kuche
-66,taiobeiras
-67,illoqqortoormiut
-68,honiara
-69,mumford
-70,sulangan
-71,pijijiapan
-72,saint-joseph
-73,samana
-74,jamestown
-75,yellowknife
-76,mataura
-77,busselton
-78,khatanga
-79,erzin
-80,saskylakh
-81,kodiak
-82,auki
-83,mairi
-84,port hawkesbury
-85,qui nhon
-86,taolanaro
-87,namatanai
-88,rochegda
-89,butaritari
-90,tasiilaq
-91,barentsburg
-92,suoyarvi
-93,chokurdakh
-94,ahipara
-95,bredasdorp
-96,albany
-97,ucluelet
-98,port alfred
-99,port augusta
-100,hofn
-101,tracy
-102,ngunguru
-103,carnarvon
-104,tucano
-105,hobyo
-106,rognan
-107,fianga
-108,walvis bay
-109,belushya guba
-110,jarjis
-111,qaanaaq
-112,rio gallegos
-113,odweyne
-114,narrabri
-115,murgab
-116,anloga
-117,dehui
-118,brae
-119,tangier
-120,sao filipe
-121,aksarka
-122,russell
-123,lompoc
-124,georgetown
-125,dikson
-126,cutro
-127,kaeo
-128,north platte
-129,leningradskiy
-130,west freehold
-131,nara
-132,rawson
-133,ust-nera
-134,cabo san lucas
-135,rorvik
-136,mayumba
-137,sigli
-138,carstairs
-139,lorengau
-140,port hardy
-141,east london
-142,san quintin
-143,victoria
-144,larsnes
-145,longyearbyen
-146,thompson
-147,tsihombe
-148,lolua
-149,hasaki
-150,manta
-151,kulhudhuffushi
-152,tieli
-153,egvekinot
-154,marsh harbour
-155,manga
-156,tiksi
-157,nizhneyansk
-158,meadow lake
-159,madison heights
-160,kyaukse
-161,honningsvag
-162,juazeiro
-163,katherine
-164,torbay
-165,santa isabel do rio negro
-166,sendafa
-167,vallenar
-168,fortuna
-169,praya
-170,esso
-171,los llanos de aridane
-172,luderitz
-173,guerrero negro
-174,vila franca do campo
-175,mushie
-176,vestmanna
-177,karakendzha
-178,klaksvik
-179,tagbac
-180,vaitupu
-181,asyut
-182,clyde river
-183,luanda
-184,progreso
-185,esmeralda
-186,maceio
-187,melville
-188,codrington
-189,kerki
-190,san patricio
-191,sabha
-192,new bern
-193,merauke
-194,south venice
-195,usinsk
-196,opuwo
-197,ilulissat
-198,namibe
-199,timra
-200,nanakuli
-201,caravelas
-202,mahebourg
-203,santa marta
-204,saint george
-205,sambava
-206,ixtapa
-207,pisco
-208,barrow
-209,miguel calmon
-210,susah
-211,bonthe
-212,jalu
-213,alofi
-214,suamico
-215,ruyigi
-216,sassandra
-217,byron bay
-218,bairiki
-219,tessalit
-220,taltal
-221,cayenne
-222,kahului
-223,sao sebastiao
-224,toktogul
-225,itarema
-226,mys shmidta
-227,faya
-228,auchi
-229,airai
-230,ostrovnoy
-231,nalut
-232,sitio novo do tocantins
-233,daru
-234,gejiu
-235,mrirt
-236,ijaki
-237,upernavik
-238,koroni
-239,zhanaozen
-240,bengkulu
-241,vardo
-242,srednekolymsk
-243,vanimo
-244,inuvik
-245,pangnirtung
-246,balkhash
-247,hakkari
-248,young
-249,avera
-250,cap malheureux
-251,bontang
-252,langnau
-253,provideniya
-254,hastings
-255,araouane
-256,alice
-257,waipawa
-258,bambous virieux
-259,casma
-260,comodoro rivadavia
-261,tual
-262,castro
-263,broken hill
-264,oga
-265,saldanha
-266,eden
-267,hamilton
-268,lebu
-269,taybad
-270,ribeira grande
-271,tabou
-272,arraial do cabo
-273,minnedosa
-274,bocanda
-275,hambantota
-276,narsaq
-277,beringovskiy
-278,rosetta
-279,henties bay
-280,tulsipur
-281,ampanihy
-282,moron
-283,krasnovishersk
-284,saint-georges
-285,morden
-286,lalibela
-287,orange walk
-288,bilibino
-289,mayo
-290,bardiyah
-291,amderma
-292,troitskoye
-293,milingimbi
-294,camargo
-295,la puebla de cazalla
-296,porangatu
-297,belyy yar
-298,lasem
-299,cidreira
-300,ibra
-301,wewak
-302,pochutla
-303,ende
-304,suleja
-305,kalmunai
-306,morristown
-307,yerbogachen
-308,bethel
-309,bizhbulyak
-310,gold coast
-311,garissa
-312,bathsheba
-313,margate
-314,sisimiut
-315,aleppo
-316,omsukchan
-317,axim
-318,turukhansk
-319,klyuchi
-320,chipata
-321,karamay
-322,tazovskiy
-323,nome
-324,dongzhen
-325,bela
-326,bichura
-327,harrison
-328,port blair
-329,solano
-330,espanola
-331,lanxi
-332,olafsvik
-333,bur gabo
-334,anage
-335,callaway
-336,kawalu
-337,norman wells
-338,umzimvubu
-339,zalari
-340,tukrah
-341,tautira
-342,abu kamal
-343,zhigansk
-344,otane
-345,mukhanovo
-346,horsham
-347,haines junction
-348,ambulu
-349,pevek
-350,samusu
-351,springbok
-352,mount gambier
-353,mentok
-354,hebi
-355,kathmandu
-356,san policarpo
-357,pathankot
-358,tommot
-359,camacha
-360,hurghada
-361,katiola
-362,buchanan
-363,gornopravdinsk
-364,goderich
-365,uvat
-366,port keats
-367,bubaque
-368,shush
-369,paredon
-370,karpogory
-371,antofagasta
-372,grootfontein
-373,praia da vitoria
-374,sipe sipe
-375,alta floresta
-376,nouakchott
-377,petrykivka
-378,watsa
-379,tagusao
-380,iqaluit
-381,baykit
-382,brownsville
-383,zumpango
-384,cherskiy
-385,malwan
-386,fairbanks
-387,maykain
-388,talara
-389,husavik
-390,khandbari
-391,glendive
-392,belgrade
-393,kainantu
-394,paracuru
-395,talaya
-396,aras
-397,kieta
-398,uppsala
-399,rensvik
-400,ancud
-401,filingue
-402,iguai
-403,vanavara
-404,nehe
-405,coquimbo
-406,akyab
-407,aden
-408,lodwar
-409,diu
-410,shimoda
-411,swellendam
-412,yar-sale
-413,formosa
-414,santiago
-415,kavaratti
-416,saposoa
-417,kondinskoye
-418,traverse city
-419,oistins
-420,strezhevoy
-421,movilita
-422,severo-kurilsk
-423,fare
-424,isangel
-425,oranjemund
-426,hami
-427,uralets
-428,turkan
-429,caconda
-430,ponta do sol
-431,pacifica
-432,masingbi
-433,araceli
-434,dingle
-435,riyadh
-436,nizhneudinsk
-437,college
-438,barcelos
-439,bodden town
-440,bonavista
-441,wattegama
-442,mehran
-443,paamiut
-444,chernyshevskiy
-445,richards bay
-446,boulsa
-447,port elizabeth
-448,papayal
-449,brawley
-450,gumushane
-451,conde
-452,kavieng
-453,gillette
-454,katsuura
-455,adrar
-456,villarrica
-457,havre
-458,along
-459,talnakh
-460,gongzhuling
-461,todos santos
-462,portland
-463,mahe
-464,qaqortoq
-465,zaysan
-466,kanigoro
-467,kabo
-468,zhangye
-469,khurda
-470,djambala
-471,hermosillo
-472,maneadero
-473,martapura
-474,kruisfontein
-475,teya
-476,antalaha
-477,muleba
-478,nouadhibou
-479,sorland
-480,port moresby
-481,tateyama
-482,prudnik
-483,vila velha
-484,salalah
-485,saint-francois
-486,niquero
-487,montemor-o-novo
-488,yulara
-489,hirara
-490,north bend
-491,zaykovo
-492,san carlos de bariloche
-493,deer lake
-494,kropotkin
-495,grindavik
-496,mehamn
-497,xiaoweizhai
-498,kirakira
-499,yanam
-500,ovalle
-501,manggar
-502,buraydah
-503,vila
-504,bilma
-505,mogadishu
-506,ketchikan
-507,flagstaff
-508,kingsport
-509,udachnyy
-510,akom
-511,padang
-512,touros
-513,mucurapo
-514,sribne
-515,sao gabriel da cachoeira
-516,umm lajj
-517,ayan
-518,mandurah
-519,luwuk
-520,takhtamygda
-521,panama city
-522,red bluff
-523,simao
-524,awbari
-525,ahuimanu
-526,sola
-527,acapulco
-528,pemberton
-529,sumbe
-530,les escoumins
-531,baturaja
-532,dharampur
-533,biak
-534,iranduba
-535,lyndon
-536,karpathos
-537,sobolevo
-538,labuhan
-539,bosaso
-540,shenkursk
-541,wilmington
-542,te anau
-543,grand baie
-544,pacific grove
-545,farmington
-546,bose
-547,nhulunbuy
-548,tura
-549,helong
-550,belle fourche
-551,kintinku
-552,dunedin
-553,kovdor
-554,honefoss
-555,tarbagatay
-556,botwood
-557,yantal
-558,greenwood
-559,ocampo
-560,quang ngai
-561,naze
-562,azimur
-563,galeana
-564,muros
-565,tigil
-566,kupang
-567,benjamin constant
-568,alice springs
-569,mandiana
-570,tena
-571,the valley
-572,umm durman
-573,laguna
-574,destin
-575,corowa
-576,mackay
-577,linjiang
-578,mabaruma
-579,yumen
-580,tumannyy
-581,sawtell
-582,kimbe
-583,saint-augustin
-584,mandalgovi
-585,lata
-586,warrnambool
-587,ponta delgada
-588,broome
-589,lichinga
-590,bereda
-591,saint-leu
-592,ferme-neuve
-593,tezu
-594,pec
-595,belaya gora
-596,hwange
-597,sao joao da barra
-598,odesskoye
-599,berikulskiy
-600,hokitika
-601,san cristobal
-602,black forest
-603,gizo
-604,banska bystrica
-605,kikwit
-606,karauzyak
-607,aripuana
-608,thaba-tseka
-609,esperance
-610,constitucion
-611,gushikawa
-612,bonga
-613,oktyabrskoye
-614,buritis
-615,qandala
+city
+rikitea
+meulaboh
+hilo
+lasa
+souillac
+necochea
+mar del plata
+vaini
+hermanus
+lavrentiya
+taoudenni
+sinnamary
+nanortalik
+ushuaia
+pierre
+faanui
+sentyabrskiy
+tabuk
+punta arenas
+port lincoln
+jiddah
+buala
+sturgis
+eyl
+willowmore
+hobart
+hithadhoo
+praia
+saint-philippe
+tuktoyaktuk
+marcona
+bluff
+bandarbeyla
+novyy urengoy
+bonham
+sitka
+deputatskiy
+kapaa
+hegra
+chuy
+geraldton
+kaitangata
+rio grande
+aklavik
+beloha
+tuatapere
+puerto ayora
+rungata
+grand river south east
+ugoofaaru
+shu
+kysyl-syr
+poum
+cape town
+mnogovershinnyy
+vostok
+kampot
+nikolskoye
+mergui
+neiafu
+new norfolk
+avarua
+flinders
+longlac
+atuona
+kuche
+taiobeiras
+illoqqortoormiut
+honiara
+mumford
+sulangan
+pijijiapan
+saint-joseph
+samana
+jamestown
+yellowknife
+mataura
+busselton
+khatanga
+erzin
+saskylakh
+kodiak
+auki
+mairi
+port hawkesbury
+qui nhon
+taolanaro
+namatanai
+rochegda
+butaritari
+tasiilaq
+barentsburg
+suoyarvi
+chokurdakh
+ahipara
+bredasdorp
+albany
+ucluelet
+port alfred
+port augusta
+hofn
+tracy
+ngunguru
+carnarvon
+tucano
+hobyo
+rognan
+fianga
+walvis bay
+belushya guba
+jarjis
+qaanaaq
+rio gallegos
+odweyne
+narrabri
+murgab
+anloga
+dehui
+brae
+tangier
+sao filipe
+aksarka
+russell
+lompoc
+georgetown
+dikson
+cutro
+kaeo
+north platte
+leningradskiy
+west freehold
+nara
+rawson
+ust-nera
+cabo san lucas
+rorvik
+mayumba
+sigli
+carstairs
+lorengau
+port hardy
+east london
+san quintin
+victoria
+larsnes
+longyearbyen
+thompson
+tsihombe
+lolua
+hasaki
+manta
+kulhudhuffushi
+tieli
+egvekinot
+marsh harbour
+manga
+tiksi
+nizhneyansk
+meadow lake
+madison heights
+kyaukse
+honningsvag
+juazeiro
+katherine
+torbay
+santa isabel do rio negro
+sendafa
+vallenar
+fortuna
+praya
+esso
+los llanos de aridane
+luderitz
+guerrero negro
+vila franca do campo
+mushie
+vestmanna
+karakendzha
+klaksvik
+tagbac
+vaitupu
+asyut
+clyde river
+luanda
+progreso
+esmeralda
+maceio
+melville
+codrington
+kerki
+san patricio
+sabha
+new bern
+merauke
+south venice
+usinsk
+opuwo
+ilulissat
+namibe
+timra
+nanakuli
+caravelas
+mahebourg
+santa marta
+saint george
+sambava
+ixtapa
+pisco
+barrow
+miguel calmon
+susah
+bonthe
+jalu
+alofi
+suamico
+ruyigi
+sassandra
+byron bay
+bairiki
+tessalit
+taltal
+cayenne
+kahului
+sao sebastiao
+toktogul
+itarema
+mys shmidta
+faya
+auchi
+airai
+ostrovnoy
+nalut
+sitio novo do tocantins
+daru
+gejiu
+mrirt
+ijaki
+upernavik
+koroni
+zhanaozen
+bengkulu
+vardo
+srednekolymsk
+vanimo
+inuvik
+pangnirtung
+balkhash
+hakkari
+young
+avera
+cap malheureux
+bontang
+langnau
+provideniya
+hastings
+araouane
+alice
+waipawa
+bambous virieux
+casma
+comodoro rivadavia
+tual
+castro
+broken hill
+oga
+saldanha
+eden
+hamilton
+lebu
+taybad
+ribeira grande
+tabou
+arraial do cabo
+minnedosa
+bocanda
+hambantota
+narsaq
+beringovskiy
+rosetta
+henties bay
+tulsipur
+ampanihy
+moron
+krasnovishersk
+saint-georges
+morden
+lalibela
+orange walk
+bilibino
+mayo
+bardiyah
+amderma
+troitskoye
+milingimbi
+camargo
+la puebla de cazalla
+porangatu
+belyy yar
+lasem
+cidreira
+ibra
+wewak
+pochutla
+ende
+suleja
+kalmunai
+morristown
+yerbogachen
+bethel
+bizhbulyak
+gold coast
+garissa
+bathsheba
+margate
+sisimiut
+aleppo
+omsukchan
+axim
+turukhansk
+klyuchi
+chipata
+karamay
+tazovskiy
+nome
+dongzhen
+bela
+bichura
+harrison
+port blair
+solano
+espanola
+lanxi
+olafsvik
+bur gabo
+anage
+callaway
+kawalu
+norman wells
+umzimvubu
+zalari
+tukrah
+tautira
+abu kamal
+zhigansk
+otane
+mukhanovo
+horsham
+haines junction
+ambulu
+pevek
+samusu
+springbok
+mount gambier
+mentok
+hebi
+kathmandu
+san policarpo
+pathankot
+tommot
+camacha
+hurghada
+katiola
+buchanan
+gornopravdinsk
+goderich
+uvat
+port keats
+bubaque
+shush
+paredon
+karpogory
+antofagasta
+grootfontein
+praia da vitoria
+sipe sipe
+alta floresta
+nouakchott
+petrykivka
+watsa
+tagusao
+iqaluit
+baykit
+brownsville
+zumpango
+cherskiy
+malwan
+fairbanks
+maykain
+talara
+husavik
+khandbari
+glendive
+belgrade
+kainantu
+paracuru
+talaya
+aras
+kieta
+uppsala
+rensvik
+ancud
+filingue
+iguai
+vanavara
+nehe
+coquimbo
+akyab
+aden
+lodwar
+diu
+shimoda
+swellendam
+yar-sale
+formosa
+santiago
+kavaratti
+saposoa
+kondinskoye
+traverse city
+oistins
+strezhevoy
+movilita
+severo-kurilsk
+fare
+isangel
+oranjemund
+hami
+uralets
+turkan
+caconda
+ponta do sol
+pacifica
+masingbi
+araceli
+dingle
+riyadh
+nizhneudinsk
+college
+barcelos
+bodden town
+bonavista
+wattegama
+mehran
+paamiut
+chernyshevskiy
+richards bay
+boulsa
+port elizabeth
+papayal
+brawley
+gumushane
+conde
+kavieng
+gillette
+katsuura
+adrar
+villarrica
+havre
+along
+talnakh
+gongzhuling
+todos santos
+portland
+mahe
+qaqortoq
+zaysan
+kanigoro
+kabo
+zhangye
+khurda
+djambala
+hermosillo
+maneadero
+martapura
+kruisfontein
+teya
+antalaha
+muleba
+nouadhibou
+sorland
+port moresby
+tateyama
+prudnik
+vila velha
+salalah
+saint-francois
+niquero
+montemor-o-novo
+yulara
+hirara
+north bend
+zaykovo
+san carlos de bariloche
+deer lake
+kropotkin
+grindavik
+mehamn
+xiaoweizhai
+kirakira
+yanam
+ovalle
+manggar
+buraydah
+vila
+bilma
+mogadishu
+ketchikan
+flagstaff
+kingsport
+udachnyy
+akom
+padang
+touros
+mucurapo
+sribne
+sao gabriel da cachoeira
+umm lajj
+ayan
+mandurah
+luwuk
+takhtamygda
+panama city
+red bluff
+simao
+awbari
+ahuimanu
+sola
+acapulco
+pemberton
+sumbe
+les escoumins
+baturaja
+dharampur
+biak
+iranduba
+lyndon
+karpathos
+sobolevo
+labuhan
+bosaso
+shenkursk
+wilmington
+te anau
+grand baie
+pacific grove
+farmington
+bose
+nhulunbuy
+tura
+helong
+belle fourche
+kintinku
+dunedin
+kovdor
+honefoss
+tarbagatay
+botwood
+yantal
+greenwood
+ocampo
+quang ngai
+naze
+azimur
+galeana
+muros
+tigil
+kupang
+benjamin constant
+alice springs
+mandiana
+tena
+the valley
+umm durman
+laguna
+destin
+corowa
+mackay
+linjiang
+mabaruma
+yumen
+tumannyy
+sawtell
+kimbe
+saint-augustin
+mandalgovi
+lata
+warrnambool
+ponta delgada
+broome
+lichinga
+bereda
+saint-leu
+ferme-neuve
+tezu
+pec
+belaya gora
+hwange
+sao joao da barra
+odesskoye
+berikulskiy
+hokitika
+san cristobal
+black forest
+gizo
+banska bystrica
+kikwit
+karauzyak
+aripuana
+thaba-tseka
+esperance
+constitucion
+gushikawa
+bonga
+oktyabrskoye
+buritis
+qandala

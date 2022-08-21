@@ -1,4 +1,12 @@
 city,request sent,response received
+Faya,Request 1 sent for faya.,Response code 200 received for faya.
+Auchi,Request 2 sent for auchi.,Response code 200 received for auchi.
+Airai,Request 3 sent for airai.,Response code 200 received for airai.
+Ostrovnoy,Request 4 sent for ostrovnoy.,Response code 200 received for ostrovnoy.
+Nālūt,Request 5 sent for nalut.,Response code 200 received for nalut.
+Sítio Novo do Tocantins,Request 6 sent for sitio novo do tocantins.,Response code 200 received for sitio novo do tocantins.
+Daru,Request 7 sent for daru.,Response code 200 received for daru.
+Gejiu,Request 8 sent for gejiu.,Response code 200 received for gejiu.
 Rikitea,Request 0 sent for rikitea.,Response code 200 received for rikitea.
 Meulaboh,Request 1 sent for meulaboh.,Response code 200 received for meulaboh.
 Hilo,Request 2 sent for hilo.,Response code 200 received for hilo.
