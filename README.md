@@ -10,9 +10,10 @@
   * I had no data to clean.
 * When this is run again, a new set of cities will be randomly selected; and, this may not be the case.
 * Unless I lock the cities list by commenting out the random selection statements.
+* I saved the cities list used to generate the outputs as cities_list.csv to be read back in as a CSV, if needed.
 
 ### WeatherPy/output_data contains all required CSVs and PNGs which include:
-1) city.csv as required output of cleaned DataFrame city_weather2
+1) cities.csv as required output of cleaned DataFrame city_weather2
   * I initially sent my output to city_weather.csv because I thought the output_data_file = "output_data/cities.csv" meant to preserve the cities list in a CSV.
   * I sent the cities list used for the solutions to cities_list.csv.
   * I saved city_weather.csv in output_data/practice folder.

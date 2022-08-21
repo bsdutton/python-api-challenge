@@ -17,6 +17,7 @@
 1) I initially used list comprehension  with a for-loop in order to retrieve data for each of the randomly selected cities.
   * I did not get any exception responses.
   * This list comprehension for-loop worked every time.  I consitently checked the length to compare with the cities list.
+  * The cities list used for all the outputs for WeatherPy had 616 cities.
   * I only noticed exceptions when I tried to do try-except by printing out the first and last responses.
   * I got a 404 on the last response the first time I ran the try-except.
 2) However, the list comprehension for-loop did not make sense when I wanted to append data to the separate lists.
@@ -32,6 +33,7 @@
 6) Moving the response.get as first line after try made everything start to work.
 7) I used the example of the url_query to send all of my print results to lists which I moved into DataFrames and output as CSVs.
   * These are meant to be my print logs even though the print results are output in the notebook.
+  * The cities list contained 616 cities.  The request_response_log.csv contains 576 cities.  The response_error_log.csv contains 40 cities.
 8) For the step to inspect data and remove cities where humidity > 100%.
   * In the randomly generated cities list, I had no cities with humidity > 100%.
   * If the entire Jupyter Notebook is run again, the results maybe different.
