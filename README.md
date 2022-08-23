@@ -61,3 +61,12 @@
 
 
 ### Solutions for VacationPy
+#### VacationPy-working.ipynb was used to resolve issues until the final result.
+#### VacationPy-main.ipynb is the final solution Notebook.
+* I used WeatherPy-main.ipynb as my starter Notebook.
+* There were 643 cities generated.
+* I reduced my DataFrame by using the target range between 70 degrees F and 80 degrees F, but I used Feel Like temperature since acounts for humidity.
+* I reduced the resultant DataFrame by specifying 0% cloudiness.
+* I reduced to the final 10 results by specifying the wind speed was less than 10 mph.
+#### CSVs and PNGs from VacationPy-working.ipynb were saved in VacationPy/vacation_output_data folder.
+* Created VacationPy/fresh_vacation_output_data folder to accept results from VactionPy-main.ipynb when it is run again.

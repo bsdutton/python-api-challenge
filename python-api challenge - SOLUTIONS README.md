@@ -46,3 +46,15 @@
 10) I added module country_converter to change the ISO 2 letter country code to a short name for the country.
 11) I initially made all my plots with Latitude for the x_values, but I found when I switched Latitude to y_values it was easier to make some sense between it and the other variable it was being measured against.
   * I saved all my original plots with Latitude as x_values in tje output_data/practice folder.
+
+  ## NOTES for VacationPy
+  1) I used WeatherPy-main.ipynb as my starter Notebook.
+  2) All solutions and outputs are taken from VacationPy-working.ipynb.
+  3) All CSVs and PNGs are saved in VacationPy/vacation_output_data folder.
+  4) VacationPy-main.ipynb is a cleaned Notebook without all the extra codeblocks used to resolve the code.
+  5) If VacationPy-main.ipynb is run, a new city list will be created.
+    * All CSVs and PNGs as output are saved in VacationPy/fresh_vacation_output_data folder.
+  6) I toggled the toolbar on and off so the heatmaps could be downloaded as PNG.
+  7) I could not get the codeblock with the API requests for nearbysearch to work yet.  I still have to fix it.
+  8) But I got the second heatmap with clickable markers.  Hover_text works, too; but only the city name is shown so far.
+  9) I set the center coordinates and zoom level for the heatmaps to make them show up the same every time.
